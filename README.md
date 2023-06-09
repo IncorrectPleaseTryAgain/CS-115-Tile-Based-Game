@@ -1,4 +1,4 @@
-# CS-115
+# CS-115 | Tile Based Game
 Tile based game for UofR
 <br>
 <br>
